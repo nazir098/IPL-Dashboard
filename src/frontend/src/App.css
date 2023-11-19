@@ -1,0 +1,12 @@
+.App {
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+.won-card{
+  background-color: rgb(86, 216, 74);
+  }
+  .lost-card{
+  background-color: rgb(229, 60, 60);
+  }

@@ -1,0 +1,8 @@
+.MatchPage{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    margin-left: 27px;
+    align-items: baseline;
+    
+}
+

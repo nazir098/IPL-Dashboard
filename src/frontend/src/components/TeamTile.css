@@ -1,0 +1,15 @@
+.TeamTile{
+ 
+ 
+}
+.name-team{
+    background-color:#aed9ff;
+    margin: 10px;
+    padding: 10px;
+     
+    display: flex;
+    justify-content: center;  
+    align-items: center; 
+    border: 1px solid black;
+    border-radius: 30px;
+}

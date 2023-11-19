@@ -1,0 +1,28 @@
+.HomePage {
+    margin: 20px 0px;
+    
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#85ffd0cc;
+    height: 64px;
+    border: 3px solid black;
+    border-radius: 12px;
+    
+
+}
+
+   
+  .team-names {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+   column-gap: 200px;/* Adjust the gap between items as needed */
+   
+  }
+   
+  .team-names .team-item:nth-child(2n) h3{
+    text-align: right;
+  }
